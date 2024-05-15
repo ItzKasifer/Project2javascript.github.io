@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<rss version="2.0">
+    <channel>
+        <title>Canales  de kaspodcast</title>
+		<link>https://itzkasifer.github.io/Project2.github.io/index.html</link>
+		<description>
+            Canales de podcasts donde la imaginación y el conocimiento se fusionan para ofrecerte experiencias únicas
+        </description>
+		<!--articulos-->
+		<item>
+			<title>Despertar Creativo</title>
+			<link>https://itzkasifer.github.io/Project2.github.io/index.html/despertarcreativo.html</link>
+			<description>"Mentes Creativas" nos adentra en los procesos detras de las mentes mas brillantes. Desde la musica hasta la ciencia, exploramos como la creatividad impulsa la innovacion.".</description>
+			
+		</item>
+		<item>
+			<title>Creciendo Juntos</title>
+			<link>https://itzkasifer.github.io/Project2.github.io/index.html/creciendojuntos.html</link>
+			<description>"Creciendo Juntos" es un espacio dedicado a compartir experiencias y reflexiones sobre la crianza y el desarrollo personal.</description>
+		</item>
+		<item>
+			<title>Explorando el Universo</title>
+			<link>https://itzkasifer.github.io/Project2.github.io/index.html/explorandoeluniverso.html</link>
+			<description>En "Explorando el Universo", nos sumergimos en los enigmas del cosmos y descubrimos la belleza y complejidad del universo que habitamos.</description>
+		</item>
+        <item>
+			<title>Conversaciones Inspiradoras</title>
+			<link>https://itzkasifer.github.io/Project2.github.io/index.html/conversacionesinspiradoras.html</link>
+			<description>"Conversaciones Inspiradoras" es un espacio dedicado a compartir las experiencias y lecciones de vida de personas que han encontrado inspiracion en los desafios.</description>
+		</item>
+        <item>
+			<title>Descubriendo la Naturaleza</title>
+			<link>https://itzkasifer.github.io/Project2.github.io/index.html/descubriendolanaturaleza.html</link>
+			<description>En "Descubriendo la Naturaleza", exploramos la fascinante diversidad de vida en nuestro planeta y reflexionamos sobre la importancia de conservar y proteger nuestros recursos naturales.</description>
+		</item>
+    </channel>
+</rss>

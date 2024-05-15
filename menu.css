@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(197, 223, 197);
+    
+    
+    
+    
+
+    
+}
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+ 
+}   
+
+.menu1{
+    display: flex;
+    justify-content: center;
+}   
+    
+
+.menu1 ul{
+    list-style-type: none;
+    display: flex;
+    text-decoration: none; 
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.menu1 li{
+    width: 100%;
+    display: flex;
+    padding: 10px 40px 10px 40px;
+    align-items: center;    
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;  
+    
+    
+}
+#rss{
+    width: 40px;
+    margin-left: 30px;
+    padding: 10px;
+}
+.logo{
+    
+    width: 100px;
+    border-style: none;
+    
+  }
+main{
+    padding: 0 225px 0  225px;
+    margin: 0 100px 0 100px;
+}
+
+
+.maintop{
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.maintop ul{
+    
+    list-style: none;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+.maintop  ul li{
+
+    padding: 5px;   
+}
+.informacion{
+    width: 200px;
+    
+}
+.fichas{
+    
+    background-color: white;
+    flex-direction: row;
+    display: flex;
+    margin-left: 140px;
+    height: 230px;
+    margin-bottom: 15px;
+    width: 580px;
+    
+    
+}
+.ficha{
+    width: 300px;
+    height: 350px;
+    
+}
+
+
+.datostop{
+    display: flex;  
+    padding: 10px 5px 0 5px;  
+}
+.datostop img{
+    margin-right: 5px;
+    
+}
+.datos{
+    margin-right: 130px;
+    font-size: 12px;
+    color: gray;
+    
+}
+h5{
+    color: gray;
+    padding: 10px 7px 15px 10px;
+    font-family: "Finlandica", sans-serif;
+    
+}
+.parrafo{
+    padding: 0 10px 0 10px;
+    font-size: 10px;
+    
+    color: gray;  
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    margin-bottom: 5px;
+}
+.opiniones{
+    margin-top: 40px;
+    width: 100%px;
+    font-size: 11px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 2px solid gray;
+    margin-left: 10px;
+}
+.opiniones ul{
+    margin-top: 10px;
+    list-style: none;
+    display: flex;
+    margin-left: -20px;
+    
+    justify-content: space-around;
+    
+}
+
+
+button.boton-inferior{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 2rem;
+    border-radius: 50px;
+    background-color: green;
+    left: 70%;
+}
+.boton-inferior i{ 
+    font-size: 30px;
+}
+
+ 
+  
+
+  
+
+
+    
+
+
+
