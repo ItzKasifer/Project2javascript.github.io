@@ -161,7 +161,7 @@ button.boton-inferior {
     bottom: 2rem;
     border-radius: 50px;
     background-color: green;
-    left: 50%;
+    left: 96%;
     transform: translateX(-50%);
 }
 
